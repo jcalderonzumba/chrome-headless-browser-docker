@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/yukinying/chrome-headless-browser-docker.svg?branch=master)](https://travis-ci.org/yukinying/chrome-headless-browser-docker)
 
-This repository contains two docker builds.
+This repository contains two docker builds until PR is accepted in "official" repo
 
 ## Chrome Headless Browser
 [![Docker Pulls](https://img.shields.io/docker/pulls/yukinying/chrome-headless-browser.svg)](https://hub.docker.com/r/yukinying/chrome-headless-browser/tags/)
